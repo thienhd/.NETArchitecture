@@ -266,3 +266,6 @@ Packages.props
 
 #Local Log Files
 log*.txt
+
+# Python caches
+__pycache__/
